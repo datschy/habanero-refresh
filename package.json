@@ -9,6 +9,10 @@
     "run": "node index.js"
   },
   "author": "David Tscheppen (https://github.com/datschy)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datschy/habanero-refresh.git"
+  },
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.1",
