@@ -1,0 +1,18 @@
+{
+  "name": "habanero-refresh",
+  "version": "0.0.1",
+  "description": "Starts a web browser instance and automatically refreshes the window on code changes",
+  "homepage": "https://github.com/datschy/habanero-refresh",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "David Tscheppen (https://github.com/datschy)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "chokidar": "^3.5.2",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  }
+}
